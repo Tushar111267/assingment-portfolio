@@ -1,0 +1,70 @@
+body{
+    background: rgb(213, 252, 252); 
+    margin: 0;
+}
+
+
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+ .blue-color{
+     color: blue;
+ }
+ section{
+     display: flex;
+ }
+ .half-width{
+     width: 100%;
+     padding: 20px;
+ }
+ .half-width img{
+     width: 80%;
+ }
+ .link-button{
+     text-decoration: none;
+     /* background-color: rgb(177, 17, 17); */
+     background-image: linear-gradient(tomato, red);
+     padding: 10px 40px;
+     border-radius: 6px;
+     color: whitesmoke;
+     font-weight: 700;
+     
+ }
+ #sec-header{
+     text-align: center;
+ }
+.illus-img{
+    width: 33%;
+     padding: 10px; 
+
+ }
+
+ .sec-part{
+    background-color: rgb(213, 252, 252);
+} 
+#mission{
+    border: 2px solid black;
+    background-color: rgb(210, 226, 136);
+    margin: 25px;
+    padding: 50px 15px;
+}
+#vision{
+    border: 2px solid black;
+    background-color: rgb(233, 179, 212);
+    margin: 25px;
+    padding: 50px 15px;
+
+
+}
+
+
+#goal{
+    border: 2px solid black;
+    background-color: rgb(238, 223, 155);
+    margin: 25px;
+    padding: 50px 15px;
+
+
+}
+
