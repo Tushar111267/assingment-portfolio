@@ -11,6 +11,12 @@ h1{
  .blue-color{
      color: blue;
  }
+ .headone{
+    border-left: 5px solid rgb(235, 54, 8);
+    border-radius: 3px;
+    margin-left: 10px;
+    padding-left: 15px;
+}
  section{
      display: flex;
  }
@@ -76,6 +82,44 @@ h2{
 p{
     font-size: 18px;
 }
-.form-head{
+#fname{
+    font-weight: bolder;
     text-align: center;
+}
+#lname{
+    font-weight: bolder;
+    text-align: center;
+}
+#age{
+    font-weight: bolder;
+    text-align: center;
+}
+#email{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.footer-p1 h1{
+    font-size: 40px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(15, 3, 1);
+    padding: 40px 0;
+}
+footer h2{
+    color: white;
+    font-style: oblique;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+footer h2 span{
+    color: rgb(250, 7, 100);
+}
+footer p{
+    color: white;
+    font-size:30px ;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    margin-left: 30px;
 }
