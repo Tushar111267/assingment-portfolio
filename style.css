@@ -69,4 +69,10 @@ h1{
 
 
 }
-
+h2{
+    font-size: 35px;
+    font-weight: bolder;
+}
+p{
+    font-size: 18px;
+}
